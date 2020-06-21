@@ -8,17 +8,13 @@
   	</p>
 </p>
 
-<p align="center">
-	<img src="../../docs/capture.png" width="450">
-</p>
+> ### "No matter how powerful you become, never try to do everything yourself, otherwise you will fail." 
+>_Uchiha Itachi_
 
 ## Translations
 
 * [Original](https://github.com/JefersonLucas/the-sharingan-eye/blob/master/README.md)
 * [English](https://github.com/JefersonLucas/the-sharingan-eye/blob/master/translate/en/README.md)
-
-> ### "No matter how powerful you become, never try to do everything yourself, otherwise you will fail." 
->_Uchiha Itachi_
 
 ## Starting
 

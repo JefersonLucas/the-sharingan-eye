@@ -8,17 +8,13 @@
   	</p>
 </p>
 
-<p align="center">
-	<img src="docs/capture.png" width="450">
-</p>
+> ### "Não importa o quão poderoso você se torne nunca tente fazer tudo sozinho, caso contrario irá falhar." 
+>_Uchiha Itachi_
 
 ## Traduções
 
 * [Original](https://github.com/JefersonLucas/the-sharingan-eye/blob/master/README.md)
 * [English](https://github.com/JefersonLucas/the-sharingan-eye/blob/master/translate/en/README.md)
-
-> ### "Não importa o quão poderoso você se torne nunca tente fazer tudo sozinho, caso contrario irá falhar." 
->_Uchiha Itachi_
 
 ## Começando
 
@@ -27,7 +23,7 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 ### Instalando
 Siga passo a passo as seguinte formas de obter o código na sua máquina local.
 
-**1. Clonando o repositório**.
+#### Clonando o repositório
 
 Para clonar o esse repositório na sua máquina local, utilize as linhas de comando:
 
@@ -49,7 +45,7 @@ git init
 git clone https://github.com/JefersonLucas/the-sharingan-eye.git
 ```
 
-**2. Baixando o repositório**.
+#### Baixando o repositório
 
 Você também pode [baixar](https://github.com/JefersonLucas/the-sharingan-eye/archive/master.zip) o repositório em formato zip.
 
