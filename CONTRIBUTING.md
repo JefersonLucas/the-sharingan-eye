@@ -10,7 +10,7 @@ Observe que temos um código de conduta; siga-o em todas as suas interações co
 2. Atualize o README.md com detalhes das alterações na interface, isso inclui novas variáveis ​​de ambiente, portas expostas, locais úteis de arquivos e parâmetros de contêiner. 
 3. Aumente os números de versão em qualquer arquivo de exemplo e o arquivo README.md para a nova versão que essa solicitação pull representaria. O esquema de versão que usamos é o [SemVer](https://semver.org/lang/pt-BR/).
 4. Você pode mesclar a solicitação de recebimento quando tiver a aprovação de dois outros desenvolvedores ou, se você não tiver permissão para fazer isso, poderá solicitar ao segundo revisor que a mescle para você.
-5. Certifique-se de que exista algum projeto em aberto em [projects](https://github.com/JefersonLucas/sharingan-eye/projects).
+5. Certifique-se de que exista algum projeto em aberto em [projects](https://github.com/JefersonLucas/the-sharingan-eye/projects).
 
 ## Código de conduta
 
