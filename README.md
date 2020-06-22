@@ -1,11 +1,13 @@
 <p align="center">
-	<img src="assets/img/logo.png" width="150">
 	<h1 align="center">O olho sharingan</h1>
-	<p align="center">O poderoso dojutsu kekkei genkai dos membros do clã Uchiha feito em CSS.</p>
-	<p align="center">
-    	<img src="https://img.shields.io/badge/JefersonLuckas-The%20sharingan%20eye-red" alt="Sharingan">
-    	<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  	</p>
+</p>
+<p align="center">
+	<img src="assets/img/logo.png" width="150" alt="Logo">
+</p>
+<p align="center">O poderoso dojutsu kekkei genkai dos membros do clã Uchiha feito em CSS.</p>
+<p align="center">
+   	<img src="https://img.shields.io/badge/JefersonLuckas-The%20sharingan%20eye-red" alt="Sharingan">
+   	<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 > ### "Não importa o quão poderoso você se torne nunca tente fazer tudo sozinho, caso contrario irá falhar." 

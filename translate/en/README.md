@@ -1,11 +1,13 @@
 <p align="center">
-	<img src="../../assets/img/logo.png" width="150">
 	<h1 align="center">The sharingan eye</h1>
-	<p align="center">The powerful dojutsu kekkei genkai of members of the Uchiha clan made in CSS.</p>
-	<p align="center">
-    	<img src="https://img.shields.io/badge/JefersonLuckas-The%20sharingan%20eye-red" alt="Sharingan">
-    	<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  	</p>
+</p>
+<p align="center">
+	<img src="../../assets/img/logo.png" width="150" alt="Logo">
+</p>
+<p align="center">The powerful dojutsu kekkei genkai of members of the Uchiha clan made in CSS.</p>
+<p align="center">
+   	<img src="https://img.shields.io/badge/JefersonLuckas-The%20sharingan%20eye-red" alt="Sharingan">
+   	<img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
 > ### "No matter how powerful you become, never try to do everything yourself, otherwise you will fail." 
