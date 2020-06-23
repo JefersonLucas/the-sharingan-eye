@@ -5,8 +5,9 @@
  * Released under the MIT license
  * https://github.com/JefersonLucas/the-sharingan-eye/blob/master/LICENSE
  *
- * Date: 2020-21-06
+ * Date: 2020-22-06
  */
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -60,67 +61,38 @@ body {
 	position: absolute;
 	background-color: #000;
 }
-.tomoe-1 {
-	top: 50px;
-	left: 135px;
-	z-index: 5;
-}
-.tomoe-1:after {
+.tomoe:after {
 	content: "";
 	position: absolute;
+
 	top: -9px;
 	left: 5px;
 	width: 10px;
 	height: 15px;
-	z-index: 5;
+
 	background-color: #000;
 
 	border-top-left-radius: 40%;
 	border-top-right-radius: 0%;
 	border-bottom-left-radius: 40%;
 	transform: rotate(85deg) skewX(30deg) skewY(30deg);
+}
+.tomoe-1 {
+	top: 50px;
+	left: 135px;
+	z-index: 1;
 }
 .tomoe-2 {
 	top: 175px;
 	left: 210px;
 	transform: rotate(130deg);
-	z-index: 5;
-}
-.tomoe-2:after {
-	content: "";
-	position: absolute;
-	top: -9px;
-	left: 5px;
-	width: 10px;
-	height: 15px;
-	z-index: 5;
-	background-color: #000;
-
-	border-top-left-radius: 40%;
-	border-top-right-radius: 0%;
-	border-bottom-left-radius: 40%;
-	transform: rotate(85deg) skewX(30deg) skewY(30deg);
+	z-index: 2;
 }
 .tomoe-3 {
 	top: 175px;
 	left: 60px;
 	transform: rotate(245deg);
-	z-index: 5;
-}
-.tomoe-3:after {
-	content: "";
-	position: absolute;
-	top: -9px;
-	left: 5px;
-	width: 10px;
-	height: 15px;
-	z-index: 5;
-	background-color: #000;
-
-	border-top-left-radius: 40%;
-	border-top-right-radius: 0%;
-	border-bottom-left-radius: 40%;
-	transform: rotate(85deg) skewX(30deg) skewY(30deg);
+	z-index: 3;
 }
 @keyframes doujutsu {
 	0% {

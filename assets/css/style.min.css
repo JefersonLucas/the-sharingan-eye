@@ -1,0 +1,10 @@
+/*!
+ * Jeferson Luckas - The sharingan eye
+ * 
+ * Copyright (c) 2020 Jeferson Luckas
+ * Released under the MIT license
+ * https://github.com/JefersonLucas/the-sharingan-eye/blob/master/LICENSE
+ *
+ * Date: 2020-22-06
+ */
+ *{box-sizing:border-box;margin:0;padding:0}body{width:100%;height:100vh;background:radial-gradient(#e61c10,#000);display:flex;justify-content:center;align-items:center}.sharingan{width:300px;height:300px;position:relative;animation:doujutsu 2s infinite linear}.circle{border-radius:50%;position:absolute}.center{position:absolute;top:0;right:0;bottom:0;left:0;margin:auto}.eye-inner{width:40px;height:40px;background-color:#0c0404}.eye-outer{width:170px;height:170px;border:2px solid #0c0404}.eye{width:300px;height:300px;background-color:#a50909;border:5px solid #000}.tomoe{width:30px;height:30px;position:absolute;background-color:#000}.tomoe:after{content:"";position:absolute;top:-9px;left:5px;width:10px;height:15px;background-color:#000;border-top-left-radius:40%;border-top-right-radius:0;border-bottom-left-radius:40%;transform:rotate(85deg) skewX(30deg) skewY(30deg)}.tomoe-1{top:50px;left:135px;z-index:1}.tomoe-2{top:175px;left:210px;transform:rotate(130deg);z-index:2}.tomoe-3{top:175px;left:60px;transform:rotate(245deg);z-index:3}@keyframes doujutsu{0%{transform:rotate(0)}100%{transform:rotate(-360deg)}}
